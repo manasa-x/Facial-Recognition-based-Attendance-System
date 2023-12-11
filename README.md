@@ -1,4 +1,4 @@
-# Facial-Recognition-based-Attendance-System
+# Face-Verse
 Using Haar Cascade and LBPH algorithms
 
 
